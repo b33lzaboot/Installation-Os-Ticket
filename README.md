@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order to install OS ticket you must first navigate to the website https://osticket.com/editions/ This will take you to three different versions of the same program, for this tutorial we will install the free open source version.
 </p>
 <br />
 
@@ -44,15 +44,62 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you see this screen make a custom version based off what you comapany requires, usually you won't have to do this cause most companies already have a version downloaded on a company computer or virtual cloud when using a virtual machine.
 </p>
 <br />
 
 <p>
-<img width="393" height="508" alt="image" src="https://github.com/user-attachments/assets/fff00a47-cff0-43ed-bb5f-4e5539dd9cbe" />
+<img width="902" height="507" alt="Screenshot 2026-10-21 160102" src="https://github.com/user-attachments/assets/48393bf2-fe7d-4029-91c7-77d692fba23f" />
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once you have chosen the customized version for you company you will get a zip file that looks like this in your downloads section of your file explorer, you are going to unzip it.
 </p>
 <br />
+
+<p>
+<img width="393" height="508" alt="Screenshot 2026-10-20 231550" src="https://github.com/user-attachments/assets/3b3a2b7f-c18d-442a-8a66-efa9b93922ed" />
+
+</p>
+<p>
+ Once unzipped you will get a file that looks like this and you want to install all of the programs within, these are all required to run OS ticket
+</p>
+<br />
+
+<p>
+<img width="897" height="506" alt="Screenshot 2026-10-21 161445" src="https://github.com/user-attachments/assets/6d24784e-e67b-47fd-b7df-aabe28611a11" />
+
+<img width="329" height="297" alt="Screenshot 2026-10-21 161525" src="https://github.com/user-attachments/assets/59d07d54-4e41-421c-aea9-9c0c2751bd8d" />
+
+<img width="328" height="292" alt="Screenshot 2026-10-21 161539" src="https://github.com/user-attachments/assets/be82cde2-13ba-4801-8056-2ffd71c37075" />
+
+</p>
+<p>
+Before you can fully install OS ticket you must first install the IIS using CGI, in order to do this you must go to your programs and click on turn on and off windows features. once you click on this you must enable Internet information services, once enabled click on the plus sign right next to it and find world wide web services and enable that, once you have done that click the plus sign next to it and find Application Development features, make sure thats enabled and click the plus sign next to it and find CGI and enable it and it should find and download the file for you.
+</p>
+<br />
+
+<p>
+<img width="388" height="506" alt="Screenshot 2026-10-21 154903" src="https://github.com/user-attachments/assets/270bb29c-217b-40c8-aa0f-449dbb88d284" />
+<img width="389" height="505" alt="Screenshot 2026-10-21 154931" src="https://github.com/user-attachments/assets/7fd2b664-d76d-4fc6-81fd-cdaaefd9f47a" />
+
+
+</p>
+<p>
+Now you can install the PHP manager and rewrite
+</p>
+<br />
+
+<p>
+<img width="530" height="507" alt="Screenshot 2026-10-21 155014" src="https://github.com/user-attachments/assets/845902f8-64fe-4d9a-a7d9-bb4f1a2c6387" />
+<img width="600" height="772" alt="Screenshot 2026-10-21 155117" src="https://github.com/user-attachments/assets/76500196-fdd8-4045-978c-4162e09ff474" />
+
+</p>
+<p>
+Now you must make a folder within you C drive called PHP this is for the PHP zip file, unzip the file and put this file win the PHP file you just created
+</p>
+<br />
+
+<p>
+
+</p>

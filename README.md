@@ -101,5 +101,30 @@ Now you must make a folder within you C drive called PHP this is for the PHP zip
 <br />
 
 <p>
+<img width="440" height="569" alt="Screenshot 2026-10-21 221613" src="https://github.com/user-attachments/assets/b48fff2f-aefe-4990-b362-9226a7607ae1" />
+<img width="391" height="305" alt="Screenshot 2026-10-21 165245" src="https://github.com/user-attachments/assets/b050f709-95ca-4cc8-9ac3-8fb533a35a47" />
+<img width="456" height="347" alt="Screenshot 2026-10-21 221152" src="https://github.com/user-attachments/assets/1c48a68f-f483-4efa-adab-f3accd024f73" />
+</p>
+<p>
+Next step is to install mysql which is a database for OS ticket, the username and password that is used is just an example for the standard configuration, this would normally not be the username and password, its just an example but I used ROOT for both. the install for the database is very simple, so just follow the prompt that the computer gives you. 
+
+</p>
+<br />
+
+<p>
+<img width="626" height="516" alt="Screenshot 2026-10-21 165728" src="https://github.com/user-attachments/assets/548d6d53-92f2-4297-9e86-f9ad92ec4fc8" />
+<img width="742" height="837" alt="Screenshot 2026-10-21 165705" src="https://github.com/user-attachments/assets/443081ab-bc66-440a-a685-2d36cdc68621" />
+<img width="860" height="713" alt="Screenshot 2026-10-21 222648" src="https://github.com/user-attachments/assets/75b85c4e-e114-44ed-9181-d1e3f9403473" />
+<img width="850" height="760" alt="image" src="https://github.com/user-attachments/assets/da8dc0d8-69fa-41da-90b0-b58ae6227a75" />
+<img width="816" height="516" alt="Screenshot 2026-10-21 222836" src="https://github.com/user-attachments/assets/f6c4cc16-aaef-46ea-8b37-c13159b17fe6" />
+<img width="464" height="200" alt="Screenshot 2026-10-21 222858" src="https://github.com/user-attachments/assets/0b47a537-b300-4212-9546-2fee2737de88" />
+<img width="184" height="228" alt="image" src="https://github.com/user-attachments/assets/8f2b9a5b-33c3-4fd9-8cb9-7d7571457236" />
+</p>
+<p>
+The next step is to set up the PHP within the IIS that you configured within your windows programs earlier in the tutorial, when you open up the IIS you want to go to PHP manager, then select Register new PHP and select the PHP.CGI file within the PHP folder that you created earlier, once this is done go ahead and restart the server, by stopping it and starting it back at the homepage
+</p>
+<br />
+
+<p>
 
 </p>
